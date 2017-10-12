@@ -1,0 +1,77 @@
+.first{
+    background-color:rgb(0, 255, 234);
+    width: 300px;
+    height: 500px;
+    overflow: hidden;
+    display:inline-block;
+    margin-right:20px;
+    border: 5px dashed red;
+    padding:0px;
+    vertical-align: top;
+}
+.second{
+    background-color: red;
+    width: 400px;
+    border: solid green;
+    overflow: hidden;
+    padding:0px;
+    display: inline-block;
+    margin-right:20px;
+    -webkit-box-shadow: 91px -63px 100px 0px rgba(125,15,125,1);
+    -moz-box-shadow: 91px -63px 100px 0px rgba(125,15,125,1);
+    box-shadow: 91px -63px 100px 0px rgba(125,15,125,1);
+    display: none;
+    
+}
+
+.third{
+    width:200px;
+    border: 5px dashed red;
+    display: inline-block;
+    margin-right:20px;
+    padding:0px;
+    
+}
+h1{
+    width: 960px;
+    margin: 50px auto;
+    text-align:center;
+    padding: 50px 0px;
+    background-color:red;
+    -webkit-box-shadow: 5px -34px 126px 0px rgba(26,14,26,1);
+    -moz-box-shadow: 5px -34px 126px 0px rgba(26,14,26,1);
+    box-shadow: 5px -34px 126px 0px rgba(26,14,26,1);
+    border-radius: 40px;
+    color:orange;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.prva-lista{
+    list-style-type: circle;
+}
+.druga-lista{
+    list-style-type: square;
+}
+
+.first-list {
+    list-style-type: upper-roman;
+}
+
+.second-list {
+    list-style-type: upper-alpha;
+}
+
+.first-image {
+    list-style-image: url(https://openclipart.org/download/216413/coniglio_rabbit_small.svg); 
+    width: 200px;
+    list-style-position: inside;         
+}
+
+.first-image img {
+    width: 200px;
+}
+
+.second-image {
+    list-style-image: url(https://unagb.files.wordpress.com/2015/11/grizzly-bear2.jpg);
+    width: 200px;
+    list-style-position: inside;
+}
