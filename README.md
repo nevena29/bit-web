@@ -1,5 +1,2 @@
 # bit-web
 
-OPET SAM ZABORAVILA DA SE IZLOGUJEM :'((( 
-
-PLAKYYYY
